@@ -13,8 +13,5 @@ This is a simple and responsive single-page portfolio built using HTML5 and CSS3
 - Responsive layout for mobile and desktop
 - Sections: About Me, Skills, Projects, Contact
 
-## 🔗 Live Preview
-[Click here to view live site]()
-
 ## 📩 Contact
-You can reach me at saravana@email.com
+You can reach me at saravanakumar4501@gmail.com
